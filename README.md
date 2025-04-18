@@ -1,18 +1,16 @@
-![banner](https://github.com/Kanishk-03-Jain/Kanishk-03-Jain/assets/142713282/ee27a007-c50c-402b-8892-ccac2f332737)
-
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pranjalchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalchaurasia" /> 
+  <img src="https://komarev.com/ghpvc/?username=kingPercy11&label=Profile%20views&color=0e75b6&style=flat" alt="kingPercy11" /> 
 </p>
 
-### 👋 Hi there, I'm Pranjal Chaurasia
+# 👋 Hi, I'm Pranjal Chaurasia!
 
-🚀 Passionate about **AI**, **Web Development**, and **Computer Vision**  
-🔬 Exploring the intersection of **Machine Learning** & **Full Stack Dev**  
-🛠 Currently building with **OpenCV**, **TensorFlow**, and **FastAPI**
+🎯 AI Enthusiast | Full Stack Developer | Computer Vision Explorer  
+🧠 Learning, building & solving one problem at a time using Python, Web, and ML  
+💡 Passionate about leveraging AI for impactful tech 🚀
 
 ---
 
-### 🤝 Connect with me:
+## 🌐 Connect with me
 
 <a href="https://www.linkedin.com/in/pranjal-chaurasia-45837928a/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
@@ -29,42 +27,38 @@
 
 ---
 
-### 💻 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=mysql&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?&logo=r&logoColor=white)
+Python • C/C++ • JavaScript • Java • R • SQL
 
 **Frameworks & Libraries:**  
-TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • ReactJS • NodeJS • ExpressJS • FastAPI
+TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • ReactJS • NodeJS • 
 
-**Tools & Platforms:**  
-Git • VSCode • Socket.io • ElectronJS • Arduino • PostgreSQL • MongoDB • BeautifulSoup
+**Tools:**  
+Git • VSCode • Socket.io • Arduino • PostgreSQL • MongoDB • 
 
-**Domains:**  
-Machine Learning • Computer Vision • Full Stack Dev • Automation • Problem Solving
+**Skills:**  
+Computer Vision • Deep Learning • Machine Learning • Full Stack Development  
+Problem Solving • Data Structures • Automation • Data Analytics • Collaboration
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalchaurasia&theme=radical&border=7F3FBF&background=0D1117" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingPercy11&theme=radical&border=7F3FBF&background=0D1117" alt="kingPercy11 streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalchaurasia&theme=radical" alt="summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingPercy11&theme=radical" alt="summary"/>
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pranjalchaurasia&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pranjalchaurasia&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kingPercy11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kingPercy11&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalchaurasia&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingPercy11&bg_color=030203&color=ff00ee&line=e605d7&point=d7e1cc&area=true&hide_border=true" />
 </p>
