@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python • C/C++ • JavaScript • Java • R • SQL
+Python • C/C++ • JavaScript • Java • SQL
 
 **Frameworks & Libraries:**  
 TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • ReactJS • NodeJS • 
