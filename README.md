@@ -30,10 +30,10 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python • C/C++ • JavaScript • Java • SQL
+C/C++ • JavaScript • Python • Java • SQL
 
 **Frameworks & Libraries:**  
-TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • ReactJS • NodeJS • 
+TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • ReactJS • NodeJS • Spring Boot
 
 **Tools:**  
 Git • VSCode • Socket.io • Arduino • PostgreSQL • MongoDB • 
@@ -56,7 +56,7 @@ Problem Solving • Data Structures • Automation • Data Analytics • Collab
 
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kingPercy11&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kingPercy11&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kingPercy11&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 <p align="center">
