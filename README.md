@@ -47,7 +47,7 @@ Problem Solving • Data Structures and Algorithms • Automation • Data Analy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingPercy11&theme=radical&border=7F3FBF&background=0D1117" alt="kingPercy11 streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingPercy11&theme=radical&border=7F3FBF&background=0D1117%22%20alt=%22kingPercy11%20streak" alt="kingPercy11 streak"/>
 </p>
 
 <p align="center">
