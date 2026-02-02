@@ -30,17 +30,17 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C/C++ • JavaScript • Python • Java • SQL
+C/C++ • JavaScript • Python • Java 
 
 **Frameworks & Libraries:**  
-TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • ReactJS • NodeJS • Spring Boot
+TensorFlow • Scikit-Learn • OpenCV • NumPy • Pandas • ReactJS • ExpressJS • NodeJS • Spring Boot
 
 **Tools:**  
 Git • VSCode • Socket.io • Arduino • PostgreSQL • MongoDB • 
 
 **Skills:**  
 Computer Vision • Deep Learning • Machine Learning • Full Stack Development  
-Problem Solving • Data Structures • Automation • Data Analytics • Collaboration
+Problem Solving • Data Structures and Algorithms • Automation • Data Analytics • Collaboration
 
 ---
 
