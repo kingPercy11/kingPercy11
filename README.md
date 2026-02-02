@@ -51,7 +51,7 @@ Problem Solving • Data Structures and Algorithms • Automation • Data Analy
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingPercy11&theme=radical" alt="summary"/>
+  <img src=" https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kingPercy11&theme=radical " alt="summary"/>
 </p>
 
 <p align="center">
